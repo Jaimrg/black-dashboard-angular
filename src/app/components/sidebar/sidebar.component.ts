@@ -15,55 +15,55 @@ export const ROUTES: RouteInfo[] = [
     icon: "icon-chart-pie-36",
     class: ""
   },
-  {
-    path: "/icons",
-    title: "Icons",
-    rtlTitle: "الرموز",
-    icon: "icon-atom",
-    class: ""
-  },
-  {
-    path: "/maps",
-    title: "Maps",
-    rtlTitle: "خرائط",
-    icon: "icon-pin",
-    class: "" },
-  {
-    path: "/notifications",
-    title: "Notifications",
-    rtlTitle: "إخطارات",
-    icon: "icon-bell-55",
-    class: ""
-  },
+  // {
+  //   path: "/icons",
+  //   title: "Icons",
+  //   rtlTitle: "الرموز",
+  //   icon: "icon-atom",
+  //   class: ""
+  // },
+  // {
+  //   path: "/maps",
+  //   title: "Maps",
+  //   rtlTitle: "خرائط",
+  //   icon: "icon-pin",
+  //   class: "" },
+  // {
+  //   path: "/notifications",
+  //   title: "Notifications",
+  //   rtlTitle:"",
+  //   icon: "icon-bell-55",
+  //   class: ""
+  // },
 
   {
     path: "/user",
-    title: "User Profile",
-    rtlTitle: "ملف تعريفي للمستخدم",
+    title: "Cadastro de Alunos",
+    rtlTitle: "",
     icon: "icon-single-02",
     class: ""
   },
   {
     path: "/tables",
-    title: "Table List",
-    rtlTitle: "قائمة الجدول",
+    title: "Lista de Alunos",
+    rtlTitle: "",
     icon: "icon-puzzle-10",
     class: ""
   },
-  {
-    path: "/typography",
-    title: "Typography",
-    rtlTitle: "طباعة",
-    icon: "icon-align-center",
-    class: ""
-  },
-  {
-    path: "/rtl",
-    title: "RTL Support",
-    rtlTitle: "ار تي ال",
-    icon: "icon-world",
-    class: ""
-  }
+  // {
+  //   path: "/typography",
+  //   title: "Typography",
+  //   rtlTitle: "طباعة",
+  //   icon: "icon-align-center",
+  //   class: ""
+  // },
+  // {
+  //   path: "/rtl",
+  //   title: "RTL Support",
+  //   rtlTitle: "ار تي ال",
+  //   icon: "icon-world",
+  //   class: ""
+  // }
 ];
 
 @Component({
